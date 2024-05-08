@@ -14,7 +14,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="https://trackdown-t5bo.onrender.com/";
+var hostURL="https://trackdownjingalala6874.onrender.com/";
 //TOGGLE for Shorters
 var use1pt=false;
 
